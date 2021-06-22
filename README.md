@@ -1,16 +1,21 @@
-# honk_clone
+# Honk Clone in Flutter
 
-A new Flutter project.
+A Flutter project that replicates the core functionality of the [Honk](https://honk.me/) app on iOS
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 📹 Gifs
 
-A few resources to get you started if this is your first Flutter project:
+| iOS User1 | Android User 2 |
+|------|-------|
+<!-- |<img src="screenshots/screen1.gif" width="200">|<img src="screenshots/screen2.gif" width="200">| -->
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 🔌 Plugins
+| Name | Usage |
+|------|-------|
+|[**Riverpod**](https://riverpod.dev)| State Management|
+|[**Socket.IO Client**](https://pub.dev/packages/socket_io_client)| Real-Time Communication with Websocket Server|
+|[**Hive**](https://docs.hivedb.dev/#/)| Fast, local data persistence|
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🤓 Follow me on Twitter
+**Chisom Ekwuribe** [![Twitter Follow](https://img.shields.io/twitter/follow/root_sanchez.svg?style=social)](https://twitter.com/root_sanchez)
