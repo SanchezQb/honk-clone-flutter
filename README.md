@@ -8,7 +8,7 @@ A Flutter project that replicates the core functionality of the [Honk](https://h
 You can find the backend project [Here](https://github.com/SanchezQb/honk-clone-nestjs) written in Nest.js for Node
 
 
-## 📹 Gifs
+## Screenshots
 
 | iOS User1 | Android User 2 |
 |------|-------|
