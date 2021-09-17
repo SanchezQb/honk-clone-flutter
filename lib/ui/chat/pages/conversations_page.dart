@@ -106,8 +106,10 @@ class _ConversationsPageState extends State<ConversationsPage> {
                       .firstWhere((data) => data.username != user.username);
                   return ListTile(
                     onTap: () {
-                      Navigator.of(context)
-                          .pushNamed("/chat_page", arguments: participant);
+                      Navigator.of(context).pushNamed(
+                        "/chat_page",
+                        arguments: participant,
+                      );
                     },
                     contentPadding: EdgeInsets.zero,
                     leading: CircleAvatar(

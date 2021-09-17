@@ -12,7 +12,7 @@ You can find the backend project [Here](https://github.com/SanchezQb/honk-clone-
 
 | iOS User1 | Android User 2 |
 |------|-------|
-<!-- |<img src="screenshots/screen1.gif" width="200">|<img src="screenshots/screen2.gif" width="200">| -->
+|<img src="screenshots/ios.png" width="200">|<img src="screenshots/android.png" width="200">|
 
 ## 🔌 Plugins
 | Name | Usage |
